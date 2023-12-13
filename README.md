@@ -25,6 +25,3 @@ Replace database connection details and analysis parameters in the script with y
 
 ## Contributing
 Contributions to enhance the project's functionality or performance are welcome. Please adhere to the project's structure and coding standards for new features or improvements.
-
-## License
-Specify the license under which this project is available, such as MIT, if applicable.
