@@ -1,4 +1,4 @@
-# Gabes Customer Profile & Shopping Behavior Analysis
+# Customer Profile & Shopping Behavior Analysis
 
 ## Overview
 This project is an in-depth analysis of customer profiles and shopping behaviors for Gabes stores. It uses data from a Redshift database to perform various analyses including department analysis, customer segmentation, seasonality analysis, and market basket analysis.
